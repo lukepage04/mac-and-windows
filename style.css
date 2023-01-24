@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .laptops {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #mac {
+    background-color: #f0f8ff;
+  }
+  
+  #windows {
+    background-color: #f5f5dc;
+  }
+  
+  h1 {
+    color: #000080;
+    margin-top: 50px;
+  }
+  
+  img {
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+  }
+  
+  ol {
+    list-style-type: upper-alpha;
+    margin: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 20px;
+  }
+  
+  li {
+    margin: 10px;
+  }
+  
+  a {
+    color: #000080;
+    text-decoration: none;
+  }
+  
